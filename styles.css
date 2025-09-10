@@ -5,7 +5,7 @@
 	
 }
 
-.container>li{
+ul>li{
 	display:inline;
 	margin-right:1rem;
 	list-style:none;
