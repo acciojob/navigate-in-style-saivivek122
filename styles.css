@@ -4,6 +4,9 @@
 	padding:10px;
 	
 }
+ul{
+	display:flex
+}
 
 ul>li{
 	display:inline;
